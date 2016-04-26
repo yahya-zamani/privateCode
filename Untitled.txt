@@ -1,13 +1,16 @@
-UDP bildet die Grundlage für die zeitempfindliche Echtzeitkommunikation und wird häufig für Multimedia-Verbindungen eingesetzt. 
+UDP bildet die Grundlage für die zeitempfindliche Echtzeitkommunikation und wird häufig für Multimedia-Verbindungen eingesetzt. 
 
 ICE bedeutet „Interactive Connectivity Establishment“. Es handelt sich um ein Protokoll, welches eine UDP-Verbindung zwischen zwei Peers herstellt 
 
-STUN steht für „Session Traversal Utilities for NAT“. Es ist ein UDP-basiertes Protokoll und ermittelt die öffentliche IP und offene Ports eines Peers 
+STUN steht für „Session Traversal Utilities for NAT“. Es ist ein UDP-basiertes Protokoll und ermittelt die öffentliche IP und offene Ports eines Peers 
 
 TURN Traversal Using Relays around ist keine verbindung über STUN möglich, kommt TURN zum Einsatz
 
-DTLS ist ein Verschlüsselungsprotokoll, welches zur Verschlüsselung von Datagramen einer UDP-Verbindung genutzt wird 
+DTLS ist ein Verschlüsselungsprotokoll, welches zur Verschlüsselung von Datagramen einer UDP-Verbindung genutzt wird 
 
-SRTP „Secure Real-Time Transport Protocol“ handelt es sich um eine AES verschlüsselte Variante des RTP 
+SRTP „Secure Real-Time Transport Protocol“ handelt es sich um eine AES verschlüsselte Variante des RTP 
 
 SCTP „Stream Control Transmission Protocol“  ist ein modernes, verbindungsorientiertes und IP-basiertes Transportprotokoll welches die Vorteile von UDP und TCP vereint.sdsjdh
+
+
+TEST TEST
