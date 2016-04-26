@@ -12,5 +12,5 @@ SRTP „Secure Real-Time Transport Protocol“ handelt es sich um eine AES versc
 
 SCTP „Stream Control Transmission Protocol“  ist ein modernes, verbindungsorientiertes und IP-basiertes Transportprotokoll welches die Vorteile von UDP und TCP vereint.sdsjdh
 
-
+alksdhalkshdlakshdlakshd
 TEST TEST
